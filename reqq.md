@@ -362,7 +362,8 @@ leave, and ordinary leave:
 
 dashboard interface (Admin):
 
-![](media/image1.jpeg){width="6.15in" height="2.966666666666667in"}
+![image](https://github.com/AshokGadde/Leave-Management-System/assets/82217218/a778e9d7-9340-410b-840c-7a4f3f86a925)
+
 
 login interface:
 
