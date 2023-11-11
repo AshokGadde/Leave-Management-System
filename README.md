@@ -1,12 +1,5 @@
 Version 1.0 Approved
 
-Prepared by\
-CB.EN.U4CSE20020 \[Gadde Ashok\]\
-CB.EN.U4CSE20021 \[G Durga Rao\]\
-CB.EN.U4CSE20023 \[PA Gurudev\]\
-CB.EN.U4CSE20037 \[Malireddy Dushyanth\]\
-CB.EN.U4CSE20068 \[Thatavarthi Harshith\]
-
 Amrita School of Computing
 
 30-04-2023
